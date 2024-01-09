@@ -1,0 +1,10 @@
+{
+    "name": "Zatoga Games",
+    "desc": "Zatoga: play games, view cheats, have fun, and bypass restrictions.",
+    "url": "https://zatoga-classroom.netlify.app/",  
+    "encodedUrl": "no",
+    "icon": "https://zatoga-classroom.netlify.app/images/rounded-icon.png",
+    "version": "1.0.0",
+    "author": "Zatoga_Official",
+    "permissions": []
+  }
